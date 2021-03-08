@@ -4,4 +4,4 @@ Desktop look:
 ![](design/desktop-design.jpg)
 
 Mobile look:
-![].(design/desktop-design.jpg)
+![](design/mobile-design.jpg)
