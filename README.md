@@ -3,6 +3,6 @@
 Desktop look:
 ![](design/desktop-design.jpg)
 
-![](design/mobile-design.jpg)
-
 Mobile look:
+
+![](design/mobile-design.jpg)
